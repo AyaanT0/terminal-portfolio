@@ -1,5 +1,6 @@
 # Terminal Portfolio Website by Ayaan Tunio
 Blog Post: https://ayaantunio.me/blog/posts/how-did-i-develop-my-terminal-portfolio-website
+^^ COMING SOON
 
 ## Features
 - Responsive Design 📱💻
@@ -16,10 +17,10 @@ Blog Post: https://ayaantunio.me/blog/posts/how-did-i-develop-my-terminal-portfo
 **UI/UX** - [Figma](https://figma.com/)  
 **State Management** - [ContextAPI](https://reactjs.org/docs/context.html)  
 **Testing** - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/)  
-**Deployment** - [Netlify](https://app.netlify.com/)
+**Deployment** - [VoxiCloud Hosing](https://voxicloud.tech/)
 
 ## Inspiration and Credits
-Here are some inspiration for this kind of terminal website. Only some features and functionalities are inspired by these following websites. All codes are written on my own.
+Some websites that I took inspiration from. NOTE: Few features and functionality are inspired by these websites. All code was written on my own.
 
 - [term m4tt72](https://term.m4tt72.com/)
 - [Forrest](https://fkcodes.com/)
