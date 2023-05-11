@@ -17,7 +17,7 @@ Blog Post: https://ayaantunio.me/blog/posts/how-did-i-develop-my-terminal-portfo
 **UI/UX** - [Figma](https://figma.com/)  
 **State Management** - [ContextAPI](https://reactjs.org/docs/context.html)  
 **Testing** - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/)  
-**Deployment** - [Vercel](https://vercel.app/)
+**Deployment** - [Vercel](https://vercel.app/)<br>
 **Hosting** - [VoxiCloud Hosting](https://voxicloud.tech/)
 
 
