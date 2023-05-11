@@ -17,7 +17,8 @@ Blog Post: https://ayaantunio.me/blog/posts/how-did-i-develop-my-terminal-portfo
 **UI/UX** - [Figma](https://figma.com/)  
 **State Management** - [ContextAPI](https://reactjs.org/docs/context.html)  
 **Testing** - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/)  
-**Deployment** - [VoxiCloud Hosing](https://voxicloud.tech/)
+**Deployment** - [Vercel](https://vercel.app/)
+**Hosting** - [VoxiCloud Hosting](https://voxicloud.tech/)
 
 ## Inspiration and Credits
 Some websites that I took inspiration from. NOTE: Few features and functionality are inspired by these websites. All code was written on my own.
