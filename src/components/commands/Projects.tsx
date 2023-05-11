@@ -70,7 +70,7 @@ const projects = [
     id: 3,
     title: "Library Management System",
     desc: "A beatiful and functional library system that features adding, removing, and checking in and out books, and well as search.",
-    url: "https://project.ayaantunio.me/librarymanagementsystem/",
+    url: "https://librarysystem.ayaantunio.me/",
   },
   {
     id: 4,
