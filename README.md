@@ -20,6 +20,7 @@ Blog Post: https://ayaantunio.me/blog/posts/how-did-i-develop-my-terminal-portfo
 **Deployment** - [Vercel](https://vercel.app/)
 **Hosting** - [VoxiCloud Hosting](https://voxicloud.tech/)
 
+
 ## Inspiration and Credits
 Some websites that I took inspiration from. NOTE: Few features and functionality are inspired by these websites. All code was written on my own.
 
